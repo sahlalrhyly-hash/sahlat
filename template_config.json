@@ -1,0 +1,7 @@
+{
+  "template_type": "shadcn-ui",
+  "framework": "react",
+  "language": "typescript",
+  "styling": "tailwindcss",
+  "ui_library": "shadcn-ui"
+}
